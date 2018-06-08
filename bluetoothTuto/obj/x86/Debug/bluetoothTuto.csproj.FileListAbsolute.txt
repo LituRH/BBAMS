@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\bin\Debug\bluetoothTuto.exe
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\bin\Debug\bluetoothTuto.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.exe
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.attendance.resources
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.exe
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.pdb
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\bin\Debug\bluetoothTuto.exe
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\bin\Debug\bluetoothTuto.pdb
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.attendance.resources
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.Form1.resources
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.Properties.Resources.resources
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.FormStart.resources
+C:\Users\USER\Desktop\bluetoothTuto\bluetoothTuto\obj\x86\Debug\bluetoothTuto.FormSelect.resources
